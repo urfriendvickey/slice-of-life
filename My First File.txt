@@ -1,0 +1,5 @@
+Let's start with a few lines, because otherwise nothing will show up.
+
+Welcome to the wonderful world of version control!
+
+Isn't this fun?  Or if not fun, at least pretty painless?
